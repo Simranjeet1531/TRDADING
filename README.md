@@ -1,17 +1,6 @@
 # Algorithm Trading with Machine Learning Methodologies
 
 
-
-## Team Members
-
-Perfect Yayra Gidisu  1702010695
-
-Mathilde Bouvier      1702010703
-
-Faruk Yucel           1702010705
-
-
-
 ```
 "Better stock prices direction prediction is a key reference for better trading strategy and decision
 making by ordinary investors and financial experts" (Kap, Chiu, Lu and Yang; 2013).
